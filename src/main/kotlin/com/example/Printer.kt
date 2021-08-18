@@ -1,7 +1,8 @@
 package com.example
 
-class Printer {
+interface Printer {
     fun print(text: String) {
         //DO NOT CHANGE. ONLY FOR DEMO PURPOSES.
     }
+
 }
